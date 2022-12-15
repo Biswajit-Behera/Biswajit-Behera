@@ -19,8 +19,8 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/biswajitstweet" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="biswajitstweet" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://www.linkedin.com/in/biswajit-behera-44450b220/" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <hr>
