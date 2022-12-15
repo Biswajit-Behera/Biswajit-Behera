@@ -5,15 +5,9 @@
 <h5 align="center">
 A 2nd-year student pursuing Bachelors in Computer science studies with a specialization of Cyber Physical System, from VIT Chennai . I am a Open Source enthusiast, Web developer. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
-<p>
-<a align= "center" href="https://github.com/Biswajit-Behera">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikkkkaaaa&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
-</p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
+<a align= "center" href="https://github.com/Biswajit-Behera">
+
 
 - 📫 How to reach me **beherabiswajit0611@gmail.com**
 <br><br>
