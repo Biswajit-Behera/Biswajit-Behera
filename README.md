@@ -13,7 +13,8 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 
 
 - 📫 How to reach me **beherabiswajit0611@gmail.com**
-<br><br>
+<br>
+         <br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
