@@ -19,7 +19,7 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 
 ---
 
-- 📫 How to reach me **ishikakesarwani2000@gmail.com**
+- 📫 How to reach me **beherabiswajit0611@gmail.com**
 
 ## 🌐 Socials:
 
