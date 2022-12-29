@@ -23,7 +23,6 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 
 ## 🌐 Socials:
 
-<br><br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
