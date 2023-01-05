@@ -15,8 +15,7 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=biswajit-behera&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=biswajit-behera&theme=dark&hide_border=false)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiswajitBehera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiswajitBehera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 - 📫 How to reach me **beherabiswajit0611@gmail.com**
