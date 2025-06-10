@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Biswajit Behera</h1>
 <h5 align="center">
-A Final year Computer Science student  at VIT Chennai. Passionate about Machine Learning, Deep Learning, and Generative AI, with hands-on experience in contributing to large-scale projects like GSOC 2024 and open-source initiatives. Eager to apply my skills in real-world AI/ML challenges and drive innovative solutions.
+A Final year Computer Science student  at VIT Chennai. Passionate about Machine Learning, Deep Learning, and Generative AI, with hands-on experience in contributing to large-scale projects. Eager to apply my skills in real-world AI/ML challenges and drive innovative solutions.
 </h5>
 
 [![](https://visitcount.itsvg.in/api?id=Biswajit-Behera&icon=0&color=0)](https://visitcount.itsvg.in)
